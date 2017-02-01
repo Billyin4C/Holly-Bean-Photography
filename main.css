@@ -1,5 +1,5 @@
 .carousel{
-    border: 5px inset grey;
+    border: 5px double;
 
 
 }
@@ -21,9 +21,7 @@ html,body{
   opacity:.5;
 
 }
-#pf1{
 
-}
 .book{
   padding-bottom:5em;
 }
@@ -245,10 +243,6 @@ textarea {
   color:black;
 }
 
-.carousel .item {
-  max-height: 750px;
-  min-width: auto;
-}
 
 .contact h1{
   font-weight: 100;
