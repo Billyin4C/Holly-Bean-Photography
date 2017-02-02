@@ -236,7 +236,9 @@ textarea {
     resize: none;
   letter-spacing:.25em;
 }
-
+.fa:hover{
+color:white;
+}
 .fa-heart{
   color:red;
 }
