@@ -70,14 +70,25 @@ html,body{
 
 }
 
-   a:link{
-  color:#2D2D34;
-     text-decoration:none;}
+a:visited{
+    color:black;
+}
+a:link{
+     color:#2D2D34;
+     text-decoration:none;
+}
+
 a:hover{
 
      text-decoration:none;
      color:white;
 }
+
+a:active{
+text-decoration:none;
+color:black;
+}
+
 #maternity{
   padding:3em;
   letter-spacing:.2em;
